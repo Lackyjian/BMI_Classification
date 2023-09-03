@@ -1,6 +1,6 @@
 # BMI_Classification
 
-![BMI](https://images.app.goo.gl/dVBXn3FHNLZ3h5USA)
+![BMI]([https://images.app.goo.gl/dVBXn3FHNLZ3h5USA](http://content.health.harvard.edu/wp-content/uploads/2023/05/992c9545-88de-49bd-876a-22c771a55a43.jpg))
 
 ## Table of Contents
 - [Introduction](#introduction)
